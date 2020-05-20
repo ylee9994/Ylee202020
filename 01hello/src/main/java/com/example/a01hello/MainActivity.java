@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // 빈카추가
         // 빈칸추가 2
+        // 빈카추가 3
     }
 }
